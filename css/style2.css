@@ -1,0 +1,16 @@
+
+.testimonial-card .card-up {
+  height: 240px;
+}
+#your{
+  
+}
+@media only screen and ( max-width: 1024px ) 
+{
+  #top{
+    background-color: #3180cf
+}
+.testimonial-card .card-up {
+  height: 150px;
+}
+}
